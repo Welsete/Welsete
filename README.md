@@ -1,5 +1,7 @@
-## Oi, eu sou o Well! ☕️
+## Oi, eu sou o Well! 🎮
 Estudante de Desenvolvimento Full Stack na Estácio.
+
+Com foco em me tornar desenvolvedor Back-End.
 
 
 <div align="center">
