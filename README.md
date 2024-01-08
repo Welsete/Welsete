@@ -1,13 +1,18 @@
 ## Oi, eu sou o Well! 🎮
-Estudante de Desenvolvimento Full Stack na Estácio.
 
-Com foco em me tornar desenvolvedor Back-End.
+✨ Com 26 anos e muita energia, estou embarcando em uma nova jornada profissional. Até agora, minha vida foi no mundo comercial, vendendo tecnologia e respirando informática.
+
+💻 Tenho uma bagagem sólida em infraestrutura de computadores, mas agora estou dando uma guinada para o universo do software. Passei um semestre na Estácio, explorando o desenvolvimento full stack, e atualmente, estou mergulhado nos estudos na Proz - Talento Cloud para me especializar em AWS.
+
+🚀 Amante fervoroso da tecnologia e games, me sinto em casa quando estou atrás da tela, criando códigos e desbravando o mundo digital. Mal posso esperar para compartilhar essa jornada com vocês!
+
+🌐 Conecte-se e vamos codar juntos! 🖥️✨
 
 
 <div align="center">
   <a href="https://github.com/welsete">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=welsete&show_icons=true&theme=aura&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welsete&langs_count=7&theme=aura&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=welsete&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welsete&langs_count=7&theme=aura"/>
 </div>
   
   ##
