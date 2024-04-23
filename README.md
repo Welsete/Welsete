@@ -22,7 +22,7 @@
   <img align="center" alt="Well-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/722184515073736747/1044292698741407784/db138c8e-c573-4ef3-8ee1-e5f7ba292460-profile_image-300x300.png">
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/VNWj1ACW7XpCSQTcymgDKiLjCm9hi1dRGpx1GexFNBc/https/i.postimg.cc/Hkv9jDtt/b59a14ce-d2f5-4426-b551-845bc37100e3.jpg?format=webp&width=632&height=632">
 </div>
 
 <div> 
