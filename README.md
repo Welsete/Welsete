@@ -1,6 +1,6 @@
 ## Oi, eu sou o Well! 🎮
 
-✨ Com 26 anos e muita energia, estou embarcando em uma nova jornada profissional. Até agora, minha vida foi no mundo comercial, vendendo tecnologia e respirando informática.
+✨ Com 27 anos e muita energia, estou embarcando em uma nova jornada profissional. Até agora, minha vida foi no mundo comercial, vendendo tecnologia e respirando informática.
 
 💻 Tenho uma bagagem sólida em infraestrutura de computadores, mas agora estou dando uma guinada para o universo do software. Passei um semestre na Estácio, explorando o desenvolvimento full stack, e atualmente, estou mergulhado nos estudos na Proz - Talento Cloud para me especializar em AWS.
 
