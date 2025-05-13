@@ -17,11 +17,11 @@
   
   ##
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Well-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Well-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,emacs,github,linux,docker,c,vim" />
+  </a>
+</p>
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/VNWj1ACW7XpCSQTcymgDKiLjCm9hi1dRGpx1GexFNBc/https/i.postimg.cc/Hkv9jDtt/b59a14ce-d2f5-4426-b551-845bc37100e3.jpg?format=webp&width=632&height=632">
 </div>
 
