@@ -2,7 +2,7 @@
 
 ✨ Com 27 anos e muita energia, estou embarcando em uma nova jornada profissional. Até agora, minha vida foi no mundo comercial, vendendo tecnologia e respirando informática.
 
-💻 Tenho uma bagagem sólida em infraestrutura de computadores, mas agora estou dando uma guinada para o universo do software. Passei um semestre na Estácio, explorando o desenvolvimento full stack, e atualmente, estou mergulhado nos estudos na Proz - Talento Cloud para me especializar em AWS.
+💻 Ainda tenho pouquissima experiencia com programação.
 
 🚀 Amante fervoroso da tecnologia e games, me sinto em casa quando estou atrás da tela, criando códigos e desbravando o mundo digital. Mal posso esperar para compartilhar essa jornada com vocês!
 
