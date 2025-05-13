@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/welsete">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=welsete&show_icons=true&theme=radical"/>
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welsete&langs_count=7&theme=aura"/>
+  <img height="255em" src="https://github-readme-stats.vercel.app/api?username=welsete&show_icons=true&theme=radical"/>
+  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welsete&langs_count=7&theme=aura"/>
 </div>
   
   ##
