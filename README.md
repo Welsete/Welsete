@@ -1,7 +1,4 @@
-👨‍💻 Common Core Cadet at 42 São Paulo
-Currently studying software engineering through project-based learning.
-Focused on low-level programming in C, problem solving, and collaborative development.
-Interested in backend development and automation.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Metodista de São Paulo.
 
 
 <div align="center">
